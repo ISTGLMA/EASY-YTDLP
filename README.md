@@ -1,6 +1,8 @@
 # What is EASY-YTDLP?
 **EASY-YTDLP** is a visual interfaced terminal that allows you to use **YT-DLP** with ease. This is for those who don't really like using the terminal and typing in commands, this fixes that and makes it very simple and easy.
 
+<img width="768" height="396" alt="EASY-YTDLP" src="https://github.com/user-attachments/assets/24f46cd0-ec5a-4295-90d4-1c38ef4fc21a" />
+
 It is currently in **ALPHA** so it offers **3** essential features: 
 + **Download Single Videos**
 + **Download Audio** 
