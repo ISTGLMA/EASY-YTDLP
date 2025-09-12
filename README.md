@@ -9,8 +9,6 @@ It is currently in **v1.0.4** so it offers **4** essential features:
 + **Download Playlist** 
 + **Download Thumbnails**
 
-I'll likely update this in the future adding more options.
-
 **YOU DON'T HAVE TO USE THIS TOOL, IT'S JUST FOR THOSE WHO PREFER EASE OF USE.**
 
 
