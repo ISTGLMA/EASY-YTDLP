@@ -3,10 +3,11 @@
 
 <img width="823" height="404" alt="EASY-YTDLP" src="https://github.com/user-attachments/assets/299f4d1c-d4c4-4771-b02c-165cd293ad16" />
 
-It is currently in **ALPHA** so it offers **3** essential features: 
+It is currently in **v1.0.4** so it offers **4** essential features: 
 + **Download Single Videos**
 + **Download Audio** 
 + **Download Playlist** 
++ **Download Thumbnails**
 
 I'll likely update this in the future adding more options.
 
