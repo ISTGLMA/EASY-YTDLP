@@ -3,7 +3,7 @@
 
 <img width="865" height="440" alt="Screenshot 2025-09-12 125926" src="https://github.com/user-attachments/assets/4985631f-7fb7-4040-9aa8-ff1bbf90fa8d" />
 
-It is currently **v1.0.4** so it offers **4** essential features: 
+It is currently in **v1.0.4** so it offers **4** essential features: 
 + **Download Single Videos**
 + **Download Audio** 
 + **Download Playlist** 
